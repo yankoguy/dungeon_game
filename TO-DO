@@ -1,0 +1,10 @@
+# TO DO
+    - TIMERS
+    - destroy bullets (with collisions)
+    - limit the player move area in the room (he should not be able to go out of the room)
+
+# TO FIX
+
+
+# IDEAS
+    - change the event system to include all key events
